@@ -1,0 +1,8 @@
+C:\Users\Morpiha\Desktop\2-1-a-gissa-det-hemliga-talet-master (1)\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+C:\Users\Morpiha\Desktop\2-1-a-gissa-det-hemliga-talet-master (1)\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
+C:\Users\ml223pn\Documents\github\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+C:\Users\ml223pn\Documents\github\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
+C:\Users\ml223pn\Documents\github\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe
+C:\Users\ml223pn\Documents\github\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.pdb
+C:\Users\ml223pn\Documents\github\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
+C:\Users\ml223pn\Documents\github\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb
